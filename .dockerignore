@@ -1,0 +1,9 @@
+.venv
+__pycache__
+*.pyc
+.env.example
+.idea
+.pytest_cache
+dist
+build
+.git
