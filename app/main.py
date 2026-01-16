@@ -1,13 +1,10 @@
 from fastapi import FastAPI
+from .router_openai_compat import router as openai_router
 
-app = FastAPI()
+app = FastAPI(title="ModelGate", version="0.1.0")
 
+@app.get("/health")
+def health():
+    return {"ok": True, "service": "ModelGate"}
 
-@app.get("/")
-async def root():
-    return {"message": "Hello World"}
-
-
-@app.get("/hello/{name}")
-async def say_hello(name: str):
-    return {"message": f"Hello {name}"}
+app.include_router(openai_router)

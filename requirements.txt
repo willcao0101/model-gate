@@ -1,0 +1,45 @@
+annotated-doc @ file:///opt/miniconda3/conda-bld/annotated-doc_1763372656251/work
+annotated-types @ file:///opt/miniconda3/conda-bld/annotated-types_1761744946224/work
+anyio @ file:///opt/miniconda3/conda-bld/anyio_1758623458954/work
+certifi @ file:///Users/ec2-user/croot/certifi_1767659194178/work/certifi
+click @ file:///opt/miniconda3/conda-bld/click_1764332244664/work
+dnspython @ file:///opt/miniconda3/conda-bld/dnspython_1763718231839/work
+email-validator @ file:///opt/miniconda3/conda-bld/email-validator-meta_1758610112771/work
+fastapi @ file:///Users/ec2-user/croot/fastapi-split_1768401102456/work
+fastapi-cli @ file:///Users/ec2-user/croot/fastapi-cli_1768373424396/work
+h11 @ file:///opt/miniconda3/conda-bld/h11_1761931258730/work
+httpcore @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_941yf7p5zt/croot/httpcore_1748526061031/work
+httptools @ file:///opt/miniconda3/conda-bld/httptools_1763634739247/work
+httpx @ file:///opt/miniconda3/conda-bld/httpx_1760447188226/work
+idna @ file:///opt/miniconda3/conda-bld/idna_1761912004936/work
+iniconfig==2.3.0
+Jinja2 @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_2cnn4kenrm/croot/jinja2_1741710859444/work
+markdown-it-py @ file:///Users/ec2-user/croot/markdown-it-py_1767001658042/work
+MarkupSafe @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_1f_uj4vxik/croot/markupsafe_1738584045311/work
+mdurl @ file:///opt/miniconda3/conda-bld/mdurl_1758552167969/work
+packaging==25.0
+pluggy==1.6.0
+pydantic @ file:///opt/miniconda3/conda-bld/pydantic_1764083525841/work
+pydantic-extra-types @ file:///Users/ec2-user/croot/pydantic-extra-types_1768308437043/work
+pydantic-settings @ file:///opt/miniconda3/conda-bld/pydantic-settings_1764165152527/work
+pydantic_core @ file:///opt/miniconda3/conda-bld/pydantic-core_1764009741287/work
+Pygments @ file:///opt/miniconda3/conda-bld/pygments_1762431580078/work
+pytest==9.0.2
+python-dotenv @ file:///Users/ec2-user/croot/python-dotenv_1768559694395/work
+python-multipart @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_43t75u1qxn/croot/python-multipart_1743526711393/work
+PyYAML @ file:///opt/miniconda3/conda-bld/pyyaml_1763465492791/work
+rich @ file:///opt/miniconda3/conda-bld/rich_1760375481939/work
+rich-toolkit @ file:///Users/ec2-user/croot/rich-toolkit_1768308537842/work
+setuptools==80.9.0
+shellingham @ file:///opt/miniconda3/conda-bld/shellingham_1761912204037/work
+sniffio @ file:///opt/miniconda3/conda-bld/sniffio_1764329150891/work
+starlette @ file:///opt/miniconda3/conda-bld/starlette-recipe_1756910684576/work
+typer==0.20.0
+typer-slim==0.20.0
+typing-inspection @ file:///opt/miniconda3/conda-bld/typing-inspection_1760614168143/work
+typing_extensions @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_dffmcwqo6o/croot/typing_extensions_1756281471323/work
+uvicorn @ file:///Users/ec2-user/croot/uvicorn-split_1768226431971/work
+uvloop @ file:///opt/miniconda3/conda-bld/uvloop_1762175503255/work
+watchfiles @ file:///Users/ec2-user/croot/watchfiles_1767984622244/work
+websockets @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_e0vmv5zsdp/croot/websockets_1751974426096/work
+wheel==0.45.1
