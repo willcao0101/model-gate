@@ -62,7 +62,7 @@ pip install fastapi uvicorn[standard] httpx pydantic-settings python-dotenv
 Copy `.env.example` to `.env` and edit values:
 
 ```bash
-cp .env.example .env
+cp .env.example.example .env.example
 ```
 
 Example `.env` for remote Ollama:
